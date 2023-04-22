@@ -1,0 +1,10 @@
+HIV GCN:
+data processing and featurization taken from
+https://www.blopig.com/blog/2022/02/how-to-turn-a-smiles-string-into-a-molecular-graph-for-pytorch-geometric/
+
+implementation of layers and models inspired by torch_geometric implementation.
+data set from chemprop repo by the Barzilay group
+
+training functions taken from CS182 HW9 Q2 code: 
+https://colab.research.google.com/drive/1A6_pAFcNEg3Scz3_rnN-qljmekNk0qCd#scrollTo=9olfPSEZGDyJ
+
